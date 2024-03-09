@@ -1,9 +1,12 @@
 # Opdracht 1
-# Naam student:
+# Naam student: Johnny
 # Groep:
 
 # Hier komt je code...
 
-my_list = ...
+# Gegeven tekst
+my_string = "Tinus gaat op zijn tandem naar de hottentottententoonstelling"
 
-print()
+aantal_keer_t = my_string.count('t')  
+
+print(f'De letter "t" komt {aantal_keer_t}x voor in my_string')
