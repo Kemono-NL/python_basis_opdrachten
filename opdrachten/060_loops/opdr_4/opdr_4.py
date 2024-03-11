@@ -4,6 +4,6 @@
 
 # Hier komt je code...
 
-# Hier start de for-loop
-
-my_list = []
+# Hier komt je code...
+my_list = [4 * x + 7 for x in range(1, 10)]
+print(my_list)
