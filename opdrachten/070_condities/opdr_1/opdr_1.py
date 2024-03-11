@@ -7,6 +7,10 @@
 # Hier start de for-loop....
 
 my_list = []
+for i in range(1, 11):
+    if i > 4:
+        my_list.append(i)
+print(my_list)
 
 #for loop
 #if statement
