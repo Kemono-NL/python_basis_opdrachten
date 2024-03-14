@@ -6,17 +6,12 @@
 
 steden = []
 
-while len(steden) < 5:
-    nieuwe_stad = input("Voer een stad in (druk op Enter om te stoppen): ").strip()
+steden.insert(0, input("Vul een stad in: "))
+steden.insert(1, input("Vul een stad in: "))
+steden.insert(2, input("Vul een stad in: "))
+steden.insert(3, input("Vul een stad in: "))
+steden.insert(4, input("Vul een stad in: "))
 
-    if not nieuwe_stad:
-        break
-
-    steden.append(nieuwe_stad)
-
-    steden = steden[:5]
-
-    steden.sort(reverse=True)
-
-print(steden)
-
+output = ', '.join([f'"{stad}"' for stad in steden])
+output = '[' + output + ']'
+print(output)
