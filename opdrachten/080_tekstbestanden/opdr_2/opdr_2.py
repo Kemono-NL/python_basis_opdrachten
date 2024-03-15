@@ -15,4 +15,4 @@ while getal != geheim_getal:
             print(f"Lager, dit is beurt {aantal_beurten}")
     elif geheim_getal > getal:
             print(f"Hoger, Dit is beurt {aantal_beurten}")
-print("Gefeliciteerd!! Ga door voor de wasmaschine!!")
+print("Gefeliciteerd!! Ga door voor de wasmachine!!")
