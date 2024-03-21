@@ -15,3 +15,9 @@ achternaam: zom
 drank: niks
 eten: kaas
 
+----
+voornaam: & C:/Users/zomer/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/zomer/OneDrive/Deltion/Deltion Opdrachten/Informatievoorzieningen/python_basis_opdrachten/opdrachten/080_tekstbestanden/opdr_1/opdr_1.py"
+achternaam: john
+drank: nik& C:/Users/zomer/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/zomer/OneDrive/Deltion/Deltion Opdrachten/Informatievoorzieningen/python_basis_opdrachten/opdrachten/080_tekstbestanden/opdr_1/opdr_1.py"
+eten: & C:/Users/zomer/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/zomer/OneDrive/Deltion/Deltion Opdrachten/Informatievoorzieningen/python_basis_opdrachten/opdrachten/080_tekstbestanden/opdr_1/opdr_1.py"
+

@@ -1,0 +1,30 @@
+niks
+leuk
+Zwolle
+niks
+aap
+banaan
+appel
+banaan
+kiwi
+
+appel
+
+banaan
+
+kiwi
+
+& C:/Users/zomer/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/zomer/OneDrive/Deltion/Deltion Opdrachten/Informatievoorzieningen/python_basis_opdrachten/opdrachten/080_tekstbestanden/opdr_1/opdr_1.py"
+
+& C:/Users/zomer/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/zomer/OneDrive/Deltion/Deltion Opdrachten/Informatievoorzieningen/python_basis_opdrachten/opdrachten/080_tekstbestanden/opdr_1/opdr_1.py"
+
+& C:/Users/zomer/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/zomer/OneDrive/Deltion/Deltion Opdrachten/Informatievoorzieningen/python_basis_opdrachten/opdrachten/080_tekstbestanden/opdr_1/opdr_1.py"
+
+niks aan
+heel leuk
+zwolle
+
+Wat vind je van de huidige regering?: niks aan
+Wat vind je van de Python-lessen tot nu toe?: heel leuk
+Wat vind jij de mooiste stad van Nederland?: Zwolle
+
