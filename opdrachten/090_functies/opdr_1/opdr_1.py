@@ -2,7 +2,6 @@
 # Naam student:
 # Groep:
 
-
 def write_to_file(afile, atext):
     # je code komt hier
     # het woordje pass hieronder kun je weghalen
